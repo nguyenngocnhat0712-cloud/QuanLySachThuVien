@@ -100,7 +100,7 @@ class Sach {
         System.out.println("Tong tien nhap: " + tinhTongTienNhap());
     }
 }
-public class Main{
+public class BTT3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Sach sach = new Sach("", "", "", 0, 0.0, 0);
